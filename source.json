@@ -15,11 +15,11 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "0.1.0.202610092309",
-          "date": "2026-10-09T23:09:42Z",
-          "localizedDescription": "Nightly build published 2026-10-09 23:09 UTC.",
+          "version": "0.1.0.202610102006",
+          "date": "2026-10-10T20:06:46Z",
+          "localizedDescription": "Nightly build published 2026-10-10 20:06 UTC.",
           "downloadURL": "https://github.com/fcitx-contrib/fcitx5-ios/releases/download/latest/Fcitx5.ipa",
-          "size": 102725505,
+          "size": 102731783,
           "minOSVersion": "16.3"
         }
       ],
