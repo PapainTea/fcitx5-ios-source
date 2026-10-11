@@ -1,0 +1,33 @@
+{
+  "name": "Fcitx5 iOS Nightly",
+  "identifier": "io.github.papaintea.fcitx5-ios-source",
+  "subtitle": "Unofficial source for the fcitx5-ios nightly build",
+  "website": "https://github.com/fcitx-contrib/fcitx5-ios",
+  "apps": [
+    {
+      "name": "Fcitx5",
+      "bundleIdentifier": "org.fcitx.Fcitx5",
+      "developerName": "fcitx-contrib",
+      "subtitle": "Fcitx5 input method framework for iOS",
+      "localizedDescription": "Fcitx5 input method framework ported to iOS 16.3 or later. Developer beta, built nightly from the master branch.",
+      "iconURL": "https://raw.githubusercontent.com/fcitx/fcitx5/master/data/icon/128x128/apps/org.fcitx.Fcitx5.png",
+      "tintColor": "3584E4",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "0.1.0.202610092309",
+          "date": "2026-10-09T23:09:42Z",
+          "localizedDescription": "Nightly build published 2026-10-09 23:09 UTC.",
+          "downloadURL": "https://github.com/fcitx-contrib/fcitx5-ios/releases/download/latest/Fcitx5.ipa",
+          "size": 102725505,
+          "minOSVersion": "16.3"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
